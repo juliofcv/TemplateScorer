@@ -3,7 +3,7 @@
 
 ![SCORERS](https://i.imgur.com/vVnCKBH.png)
 
-**TemplateScorer** es un algoritmo Java que calcula un **score** de calidad para plantillas de huellas dactilares en formato ISO 19794. Combina técnicas de estadística robusta, análisis multivariante y métricas espaciales para producir un único valor que refleja la consistencia geométrica y direccional de las minucias.
+**TemplateScorer** es un algoritmo Java que calcula un **score** de calidad para plantillas de huellas dactilares en formato ISO/IEC 19794. Combina técnicas de estadística robusta, análisis multivariante y métricas espaciales para producir un único valor que refleja la consistencia geométrica y direccional de las minucias.
 
 ---
 
